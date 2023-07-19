@@ -60,3 +60,47 @@ body{
     left: -37px;
     transform: rotate(45deg) rotateY(180deg);
 }
+
+.eye1 {
+    width: 110px;
+    height: 110px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    top: -51px;
+    left: -99px;
+    box-shadow: 1px 1px 4px #888787;
+}
+
+.pupil1 {
+    width: 70px;
+    height: 70px;
+    background: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 5px;
+    box-shadow: 1px 1px 3px #888787;
+}
+
+.eye2 {
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    top: -20px;
+    left: 20px;
+    box-shadow: 1px 1px 1px #888787;
+}
+
+.pupil2 {
+    width: 30px;
+    height: 30px;
+    background: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 27px;
+    left: 10px;
+}
+
